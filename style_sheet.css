@@ -1,0 +1,110 @@
+p{
+    font-family: 'Montserrat';
+    margin:0;
+    color:#0E0101;
+    display: flex;
+  
+}
+body{
+    background-color: #FAFDF3;
+}
+tr{
+    font-family: 'Montserrat';
+}
+.headerArea{
+    border-bottom: 20px;
+    display: flex;
+}
+.logoParam{
+    height:100px;
+    width:230px;
+}
+.websiteSearchBar{
+    margin-left: 15px;
+    margin-top: 20px;
+    display:flex;
+}
+.searchIcon{
+    width:30px;
+    height:30px;
+}
+.searchButton{
+    height:45px;
+}
+.searchBar{
+    height:45px;
+    width:550px;
+}
+.userHeaderOptions{
+    display:flex;
+    margin-left: 225px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.userLogOutbtn,.userEditProfilebtn,.addCafe{
+    margin-right: 20px;
+    background-color: #DEC9B7;
+    border:0;
+    border-radius: 10px;
+    height:40px;
+    width:150px;
+    font-size: 12px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.bodyArea{
+    width:1350px;
+    height: 500px;
+    margin-left: 75px;
+    border-color: #8C5835;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 5px;
+}
+.bodyTitle{
+    margin-top: 10px;
+    font-size: 45px;
+    font-weight: 400;
+}
+.bodyQuestions{
+    margin-left: 100px;
+    font-weight: 300;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 35px;
+}
+.textAnswer,.textarea,.textAnswerDTI{
+    margin-left: 20px;
+    border-color: #8C5835;
+    border-width: 1px;
+    height: 40px;
+    width:400px;
+}
+.questionAnswer{
+    margin-top: 20px;
+}
+.textarea{
+    margin-left: 43px;
+}
+.textAnswerDTI{
+    margin-left: 10px;
+}
+.buttonText{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.buttonTextLogOut{
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.buttonTextEdit{
+    margin-left: 25px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.addCafe{
+    margin-left: 160px;
+    height: 50px;
+    width:170px;
+}
