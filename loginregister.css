@@ -1,0 +1,53 @@
+body{
+  background-image: url("login_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logo{
+  text-align: center;
+}
+.logo > img{
+  padding-top: 50px;
+  width: 250px;
+}
+.login-register-container{
+  text-align: center;
+}
+.login-register-container > h2{
+  font-family: 'Montserrat';
+}
+.label-container{
+  padding-top: 10px;
+  text-align: center;
+}
+.label-container > h2{
+  
+  font-family: 'Montserrat'; 
+}
+.textAnswer{
+  width: 400px;
+  background-color: #dec9b7;
+  border-radius: 10%;
+  border: none;
+  height: 50px;
+  font-family: 'Montserrat';
+  font-size: 20px;
+  margin-left: 10px;
+}
+.button-parent{
+  padding-top: 20px;
+  text-align: center;
+}
+.button-details{
+  width: 400px;
+  background-color: #dec9b7;
+  border-radius: 10%;
+  border: none;
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+a{
+  font-size: 20px;
+}
