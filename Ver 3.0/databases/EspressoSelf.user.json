@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65ec27518166e6f3518c343a"
+  },
+  "username": "JudgementKazzy",
+  "password": "Drag0n0fD0jima",
+  "email": "taichi_suzuki@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65ec27f68166e6f3518c343b"
+  },
+  "username": "MadDogMaj",
+  "password": "24hrCinderella",
+  "email": "majima_goro@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65ec283f8166e6f3518c343c"
+  },
+  "username": "BaldTiger1",
+  "password": "RubberBu11ets",
+  "email": "saejima_taiga@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65ec28bd8166e6f3518c343d"
+  },
+  "username": "DaigoWithAGun",
+  "password": "6thChairman",
+  "email": "dojima_daigo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65ec29288166e6f3518c343e"
+  },
+  "username": "KoiKyodai",
+  "password": "10Years",
+  "email": "aki_nishiki@gmail.com"
+}]

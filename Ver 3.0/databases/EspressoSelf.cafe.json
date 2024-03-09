@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65ec34f68166e6f3518c3459"
+  },
+  "name": "Starbucks",
+  "description": "It's not just coffee, it's Starbucks.",
+  "items": [
+    "Latte Macchiato",
+    "Java Chip",
+    "Matcha Latte",
+    "Caramel Frappuccino",
+    "Pumpkin Spice Latte"
+  ],
+  "owner": "Starbucks Corp."
+},
+{
+  "_id": {
+    "$oid": "65ec36e38166e6f3518c345a"
+  },
+  "name": "Mood & Coffee",
+  "description": "Your mood, our coffee",
+  "items": [
+    "Latte Macchiato",
+    "Java Chip",
+    "Matcha Latte",
+    "Caramel Frappuccino",
+    "Pumpkin Spice Latte"
+  ],
+  "owner": "MoodAndCoffee"
+},
+{
+  "_id": {
+    "$oid": "65ec386c8166e6f3518c345b"
+  },
+  "name": "Dapit-Hapon Cafe & Bistro",
+  "description": "Pair your coffee with our tasty meals!",
+  "items": [
+    "Latte Macchiato",
+    "Java Chip",
+    "Matcha Latte",
+    "Caramel Frappuccino",
+    "Pumpkin Spice Latte"
+  ],
+  "owner": "dapithapon"
+},
+{
+  "_id": {
+    "$oid": "65ec38b78166e6f3518c345c"
+  },
+  "name": "Coffee Project",
+  "description": "Philippines' most Instagrammable coffee shop",
+  "items": [
+    "Latte Macchiato",
+    "Java Chip",
+    "Matcha Latte",
+    "Caramel Frappuccino",
+    "Pumpkin Spice Latte"
+  ],
+  "owner": "coffeeprojectofficial"
+},
+{
+  "_id": {
+    "$oid": "65ec393e8166e6f3518c3460"
+  },
+  "name": "Coffee Bean & Tea Leaf",
+  "description": "Born in Southern California, Brewed Worldwide. Home of The Original Ice Blended®. Since 1963, The Coffee Bean and Tea Leaf® has provided guests with specialty coffee & tea carefully handcrafted from seed to cup. Enjoy your favorite brew at #CBTLph!",
+  "items": [
+    "Latte Macchiato",
+    "Java Chip",
+    "Matcha Latte",
+    "Caramel Frappuccino",
+    "Pumpkin Spice Latte"
+  ],
+  "owner": "coffeebean"
+}]

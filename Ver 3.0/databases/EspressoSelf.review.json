@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "65ec2ac28166e6f3518c344c"
+  },
+  "username": "JudgementKazzy",
+  "rating": 5,
+  "comment": "Matcha here is top tier! Would definitely go again.",
+  "isHelpful": 0,
+  "isUnhelpful": 0
+},
+{
+  "_id": {
+    "$oid": "65ec2b168166e6f3518c344d"
+  },
+  "username": "MadDogMaj",
+  "rating": 5,
+  "comment": "I've had my eye on this place for sometime. Definitely did not disappoint!",
+  "isHelpful": 0,
+  "isUnhelpful": 0
+},
+{
+  "_id": {
+    "$oid": "65ec2bfe8166e6f3518c344e"
+  },
+  "username": "BaldTiger1",
+  "rating": 4,
+  "comment": "Service took a little too long, but my espresso turned out great!",
+  "isHelpful": 0,
+  "isUnhelpful": 0
+},
+{
+  "_id": {
+    "$oid": "65ec2c358166e6f3518c344f"
+  },
+  "username": "DaigoWithAGun",
+  "rating": 3,
+  "comment": "My hot chocolate was not hot enough. The toilet smelled terrible. But the barista was cute."
+},
+{
+  "_id": {
+    "$oid": "65ec2d898166e6f3518c3450"
+  },
+  "username": "KoiKyodai",
+  "rating": 5,
+  "comment": "The atmosphere here is the best! I like the music track. My mocha frappe was made quickly and perfectly."
+}]
