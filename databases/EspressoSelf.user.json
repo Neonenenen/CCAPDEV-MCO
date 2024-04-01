@@ -3,7 +3,7 @@
     "$oid": "65ec27518166e6f3518c343a"
   },
   "username": "JudgementKazzy",
-  "password": "Drag0n0fD0jima",
+  "password": "123",
   "email": "taichi_suzuki@gmail.com",
   "desc": "Computer Science student who believes in the power of coffee for coding."
 },
@@ -12,7 +12,7 @@
     "$oid": "65ec27f68166e6f3518c343b"
   },
   "username": "MadDogMaj",
-  "password": "24hrCinderella",
+  "password": "456",
   "email": "majima_goro@gmail.com",
   "desc": "Goes mad if I don't get my daily coffee."
 },
@@ -21,7 +21,7 @@
     "$oid": "65ec283f8166e6f3518c343c"
   },
   "username": "BaldTiger1",
-  "password": "RubberBu11ets",
+  "password": "789",
   "email": "saejima_taiga@gmail.com",
   "desc": "On a mission to try every cafe there is."
 },
@@ -30,7 +30,7 @@
     "$oid": "65ec28bd8166e6f3518c343d"
   },
   "username": "DaigoWithAGun",
-  "password": "6thChairman",
+  "password": "abc",
   "email": "dojima_daigo@gmail.com",
   "desc": "Looking for the perfect place to sip coffee and work"
 },
@@ -39,7 +39,7 @@
     "$oid": "65ec29288166e6f3518c343e"
   },
   "username": "KoiKyodai",
-  "password": "10Years",
+  "password": "def",
   "email": "aki_nishiki@gmail.com",
   "desc": "Someday, I will own a cafe of my own."
 }]
